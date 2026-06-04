@@ -3,7 +3,7 @@ IMT 526
 
 A machine learning project using QLoRA fine-tuning to classify/analyze text data.
 
-## Project Structure
+# Project Structure
 LLM_project/
 ├── data/           # Raw and processed datasets
 ├── outputs/        # Model predictions and evaluation results
