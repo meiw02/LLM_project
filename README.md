@@ -1,4 +1,5 @@
-IMT 526
+## Course
+IMT 526 Final Project
 # LLM Project
 
 A machine learning project using QLoRA fine-tuning to classify/analyze text data.
