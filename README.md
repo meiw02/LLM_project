@@ -4,12 +4,14 @@ IMT 526
 A machine learning project using QLoRA fine-tuning to classify/analyze text data.
 
 # Project Structure
+```
 LLM_project/
-├── data/           # Raw and processed datasets
-├── outputs/        # Model predictions and evaluation results
-├── checkpoints/    # Saved model checkpoints
-├── notebooks/      # Jupyter notebooks
+├── data/              # Raw and processed datasets
+├── outputs/           # Model predictions and evaluation results
+├── checkpoints/       # Saved model checkpoints
+├── notebooks/         # Jupyter notebooks
 └── README.md
+```
 
 ## Setup
 Clone the repository:
