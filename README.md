@@ -54,4 +54,4 @@ notebooks/project.ipynb
 - Terresa Tran
 
 ## Acknowledgments
-Built with QLoRA and LLaMA and George Harker and Tunir Mitra 
+Built with QLoRA and LLama and George Harker and Tunir Mitra 
