@@ -47,7 +47,6 @@ notebooks/project.ipynb
 ## Key Findings
 - QLoRA achieved the highest Toxic Recall (0.880)
 - TF-IDF baseline had the strongest overall Macro F1 (0.778)
-- LLM approaches better capture contextual and subtle toxicity
 
 ## Authors
 - Mei Wu 
