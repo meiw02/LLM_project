@@ -8,7 +8,7 @@ A machine learning project using QLoRA fine-tuning to classify/analyze text data
 ```
 LLM_project/
 ├── data/              # Raw and processed datasets
-├── outputs/           # Model predictions and evaluation results
+├── outputs/           # Model predictions and evaluation results and labeled test data
 ├── checkpoints/       # Saved model checkpoints
 ├── notebooks/         # Jupyter notebooks
 └── README.md
