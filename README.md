@@ -30,6 +30,7 @@ notebooks/project.ipynb
 - `train_data.csv` — training dataset
 - `val_data.csv` — validation dataset
 - `test.csv` — test dataset
+- `test_labels.csv` - labels for the test data; value of -1 indicates it was not used for scoring
 
 ## Models Compared
 - TF-IDF + Logistic Regression (baseline)
